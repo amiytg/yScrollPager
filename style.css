@@ -1,0 +1,12 @@
+#yScrollPagerNav {
+    height:65px;
+    background-color:#d7d7d7;
+    font-size:2em;
+    width:100%;
+    top:0;
+    position:fixed;
+}
+div>.yScrollPage {
+    height:600px;
+    width:100%;
+}
